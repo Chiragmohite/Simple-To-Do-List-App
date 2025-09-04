@@ -15,11 +15,14 @@ This project helps you manage your daily tasks in a clean and interactive interf
 
 ## 📸 Screenshots
 
+## Screenshots
+
 ### Home Page
-Screenshot (163).png
+![Home Page](Screenshot%20(163).png)
 
 ### Result Page
-Screenshot (164).png
+![Result Page](Screenshot%20(164).png)
+
 
 
 ## ▶️ Run Locally
