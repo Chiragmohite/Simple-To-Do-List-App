@@ -13,6 +13,15 @@ This project helps you manage your daily tasks in a clean and interactive interf
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshot163.png)
+
+### Result Page
+![Result Page](screenshot164.png)
+
+
 ## ▶️ Run Locally
 
 1. Clone this repo:
@@ -28,3 +37,6 @@ This project helps you manage your daily tasks in a clean and interactive interf
 3. Run the app:
 
    streamlit run app.py
+
+
+
